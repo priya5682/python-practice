@@ -4,7 +4,7 @@ def check_number():
     if number % 2 == 0:
         print("number is even")
     else:
-        ("number is odd")
+        print("number is odd")
 
 
-    print(check_number())
+check_number()
